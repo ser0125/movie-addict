@@ -1,6 +1,7 @@
 {
   "name": "movie-addict",
   "version": "0.0.0",
+  "author": "Sergio Andrés Llanos García",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
