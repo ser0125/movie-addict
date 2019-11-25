@@ -10,3 +10,8 @@ body {
   background-color: #131313;
   color: #dedede;
 }
+.a {
+    &--disable-decoration{ 
+        text-decoration: none;
+    }
+}
